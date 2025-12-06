@@ -10,9 +10,7 @@
 
 ## 📺 Demo Preview (演示)
 
-*git add .
-git commit -m "Add demo gif and update readme"
-git push origin main*
+**
 
 ## 🛠️ Key Features (核心功能)
 
