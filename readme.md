@@ -10,7 +10,7 @@
 
 ## 📺 Demo Preview (演示)
 
-**
+*![Demo Preview](demo.gif)*
 
 ## 🛠️ Key Features (核心功能)
 
